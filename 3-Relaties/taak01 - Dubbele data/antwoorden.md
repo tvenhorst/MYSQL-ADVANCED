@@ -1,8 +1,10 @@
 # Antwoorden opdracht 1
 
-Antwoord in bytes: 171X16719=2858949
+Antwoord in bytes:
+ 171X16719=2858949
 
-Antwoord in kilobytes:2858,9
+Antwoord in kilobytes:
+2858,9
 
 # Antwoorden opdracht 2
 
