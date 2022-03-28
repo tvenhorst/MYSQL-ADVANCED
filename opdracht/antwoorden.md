@@ -21,3 +21,4 @@ SELECT constructors.name, races.name as 'Grand Prix' FROM constructor_standing J
 5. Copy paste je gemaakte SQL query hieronder
 SELECT circuits.name AS circuit, circuits.country, races.name drivers.surname FROM racers JOIN circuits ON circuits.circuitId = races.circuitId JOIN circuits ON drivers.driverId = driver_standing.driverId WHERE surname like 'F%' AND year = 1950;
 
+
